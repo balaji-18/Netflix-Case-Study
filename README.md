@@ -1,2 +1,2 @@
-# BLJ_DSML-
+# Netfix case study
 DA &amp; DSML Projects
